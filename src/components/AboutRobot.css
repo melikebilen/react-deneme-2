@@ -1,0 +1,85 @@
+video {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  z-index: -1;
+}
+
+.frontvideo {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  z-index: 3;
+}
+
+.ourpictures {
+  animation: fadeIn 5s;
+  opacity: 1;
+  width: 200px;
+  height: 275px;
+  z-index: 4;
+  border-radius: 0px 0px 10px 10px;
+  max-height: 300x;
+  overflow: hidden;
+}
+
+.robotpictures {
+  opacity: 1;
+  width: 550px;
+  height: 499px;
+  z-index: 4;
+  border-radius: 0px 0px 10px 10px;
+  overflow: hidden;
+}
+
+.hero-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-shadow: inset 0 0 0 1000pc rgba(0, 0, 0, 0.2);
+  object-fit: contain;
+}
+
+.resources {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  box-shadow: inset 10pc 10pc 10pc 1500pc rgba(185, 185, 185, 0.2);
+  object-fit: contain;
+}
+
+p {
+  z-index: 6;
+}
+
+.Row {
+  display: flex;
+  justify-content: space-between;
+}
+
+.Column {
+  column-width: 100px;
+  width: 200px;
+  height: 200x;
+  z-index: 7;
+  object-fit: contain;
+  flex-direction: column;
+  box-shadow: inset 0 0 0 1000pc rgba(0, 0, 0, 0.2);
+  object-fit: contain;
+}
+
+.githubLink {
+  background-color: #6150af88;
+  color: rgb(63, 83, 168);
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a {
+  color: white;
+}
