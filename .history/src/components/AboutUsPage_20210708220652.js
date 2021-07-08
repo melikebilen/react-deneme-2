@@ -9,7 +9,7 @@ function AboutUsRobot() {
     <div className='hero-container'>
     <div className="Row">
     <div className="Column">
-    <img className='ourpictures' src='/images/pinar.jpg'/> <p>Pınar Oğuz Ekim</p><p>Asst. Prof. Pınar Oğuz Ekim</p><p>pinar.ekim@ieu.edu.tr</p>
+    <img className='ourpictures' src='/images/pinar.JPG'/> <p>Pınar Oğuz Ekim</p><p>Asst. Prof. Pınar Oğuz Ekim</p><p>pinar.ekim@ieu.edu.tr</p>
     </div>
     <div className="Column">
     <img className='ourpictures' src='/images/melike.jpeg'/> <p>Melike Bilen</p><p>Computer Engineering</p><p>bilenmelike@gmail.com</p>
