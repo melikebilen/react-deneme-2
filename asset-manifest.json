@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-deneme-2/static/css/main.b40c7e4f.chunk.css",
-    "main.js": "/react-deneme-2/static/js/main.c2c1cff4.chunk.js",
-    "main.js.map": "/react-deneme-2/static/js/main.c2c1cff4.chunk.js.map",
+    "main.js": "/react-deneme-2/static/js/main.0865fa38.chunk.js",
+    "main.js.map": "/react-deneme-2/static/js/main.0865fa38.chunk.js.map",
     "runtime-main.js": "/react-deneme-2/static/js/runtime-main.d0fcfae1.js",
     "runtime-main.js.map": "/react-deneme-2/static/js/runtime-main.d0fcfae1.js.map",
     "static/js/2.16329544.chunk.js": "/react-deneme-2/static/js/2.16329544.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.d0fcfae1.js",
     "static/js/2.16329544.chunk.js",
     "static/css/main.b40c7e4f.chunk.css",
-    "static/js/main.c2c1cff4.chunk.js"
+    "static/js/main.0865fa38.chunk.js"
   ]
 }
