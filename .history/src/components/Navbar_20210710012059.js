@@ -36,7 +36,7 @@ function Navbar() {
             </li>
             <li className='nav-item'>
               <Link
-                to='/react-deneme-2/resources'
+                to='react-deneme-2/resources'
                 className='nav-links'
                 onClick={closeMobileMenu}
               >

@@ -22,7 +22,7 @@ class App extends Component {
             <Route path = '/react-deneme-2' exact component={Home}/>
             <Route path = '/react-deneme-2/aboutus' exact component={AboutUs}/>
             <Route path = '/react-deneme-2/aboutrobot' exact component={AboutRobot}/>
-            <Route path = '/react-deneme-2/resources' exact component={Resources}/>
+            <Route path = 'react-deneme-2/resources' exact component={Resources}/>
           </Switch>
         </Router>
           

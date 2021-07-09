@@ -12,7 +12,7 @@ function Navbar() {
     <>
       <nav className='navbar'>
         <div className='navbar-container'>
-          <Link to='/react-deneme-2' className='navbar-logo' onClick={closeMobileMenu}>
+          <Link to='/' className='navbar-logo' onClick={closeMobileMenu}>
             RobotLocation
             <i className="fas fa-robot"></i>
           </Link>
@@ -27,7 +27,7 @@ function Navbar() {
             </li>
             <li className='nav-item'>
               <Link
-                to='/react-deneme-2/aboutrobot'
+                to='/aboutrobot'
                 className='nav-links'
                 onClick={closeMobileMenu}
               >
@@ -36,7 +36,7 @@ function Navbar() {
             </li>
             <li className='nav-item'>
               <Link
-                to='/react-deneme-2/resources'
+                to='/resources'
                 className='nav-links'
                 onClick={closeMobileMenu}
               >
