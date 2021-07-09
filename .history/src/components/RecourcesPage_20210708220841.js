@@ -19,7 +19,7 @@ function ResourcesPage() {
         </div>
         <h3>If you would like to learn more about how this website is built with React, you can take a look at the following github repository. You can read the README. file and follow the steps to use it.</h3>
         <div className='githubLink'>
-        <a href="https://github.com/melikebilen/react-deneme-2" target="blank">The github repository for React code</a>
+        <a href="https://github.com/melikebilen/TDOA_Project" target="blank">The github repository for React code</a>
         </div>
         </ul>
     </div>

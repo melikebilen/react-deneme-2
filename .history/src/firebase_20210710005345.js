@@ -1,5 +1,15 @@
 import firebase from 'firebase';
-
+/*
+var firebaseConfig = {
+  apiKey: "AIzaSyBj1zICohLWArczEJJ6N0bLcXEfCCVmp1w",
+  authDomain: "tdoaproject-5414d.firebaseapp.com",
+  databaseURL: "https://tdoaproject-5414d-default-rtdb.firebaseio.com",
+  projectId: "tdoaproject-5414d",
+  storageBucket: "tdoaproject-5414d.appspot.com",
+  messagingSenderId: "50653617667",
+  appId: "1:50653617667:web:2e8ca4ae022737bfb2b836",
+  measurementId: "G-H4G0L0765T"
+};*/
 var firebaseConfig = {
   apiKey: "AIzaSyBQjxxJqCcYhjYDH6GFwjSGdQ7VeqVGhCI",
   authDomain: "tdoa-23cf7.firebaseapp.com",
