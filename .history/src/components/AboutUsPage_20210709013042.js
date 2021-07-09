@@ -26,7 +26,7 @@ function AboutUsRobot() {
 
 
     </div>
-      <video className='frontvideo' src='https://melikebilen.github.io/react-deneme-2/videos/robotvideo2.MP4' autoPlay loop muted />
+    <video className='frontvideo' src='https://melikebilen.github.io/react-deneme-2/videos/robotvideo2.MP4' autoPlay loop muted />
     </div>
   
   );
