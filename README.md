@@ -63,7 +63,7 @@ Node.js: v13.13.0
 ```
 
    ## Steps to use the code
-   ```
+   
     1) Make sure you have the IDE that you prefer, I have used Visual Studio Code.
    
     2) After setting up the environment, you can download the zip file. You should unzip the file that you have downloaded. 
@@ -101,5 +101,5 @@ Node.js: v13.13.0
     10) I hope you can make a good use of this repository! If you need to use it, you are free to do so, 
     
         if you have questions please reach me via e-mail: bilenmelike@gmail.com
-      ```
+   
      
